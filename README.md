@@ -33,7 +33,7 @@ The dataset has about 8,790 Netflix titles (movies and TV shows). I cleaned the 
 | `netflix_cleaned.csv` | Dataset after cleaning |
 | `task6_dashboard.png` | Final business dashboard |
 | `outputs/` | Interactive Plotly charts (download and open in a browser) |
-| `screenshots/` | Screenshots of each task (task1 to task6) |
+| `task1_1.png` ... `task6_3.png` | Screenshots of each task |
 
 ## Note about the audience column
 The dataset only has ratings (like TV-MA or PG-13), so I made a new column called `audience` by grouping the ratings into five groups:
